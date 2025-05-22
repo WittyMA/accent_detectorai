@@ -118,6 +118,10 @@ To stop the container:
 docker-compose down
 ```
 
+The below url is the link to the application deployed on streamlit cloud:
+
+https://accentdetector.streamlit.app/
+
 ## Technical Details
 
 - **Video Processing**: Uses yt-dlp and ffmpeg to download videos and extract audio.
