@@ -147,7 +147,7 @@ def main():
     # Add information about the application
     st.sidebar.title("About")
     st.sidebar.info("""
-    This application uses machine learning to detect accents in spoken English.
+    This application uses Machine Learning Algorithms to detect accents in spoken English.
     
     It works by:
     1. Extracting audio from the provided video URL
@@ -160,7 +160,7 @@ def main():
     
     # Add footer
     st.sidebar.divider()
-    st.sidebar.caption("© 2025 Accent Detection System")
+    st.sidebar.caption("© 2025 Accent Detection System | Developed by Wisdom K.Anyizah")
 
 if __name__ == "__main__":
     main()
