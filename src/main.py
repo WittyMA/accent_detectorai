@@ -1,5 +1,5 @@
 """
-Main Flask application file for the Accent Detection System.
+Main application file for the Accent Detection System.
 Integrates video processing and accent detection with a Flask web UI.
 """
 
@@ -92,5 +92,5 @@ def health():
 
 # Run the app
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 5005))  # Changed default port to 5005
+    port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port, debug=True)
