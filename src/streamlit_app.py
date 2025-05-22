@@ -156,11 +156,13 @@ def main():
     
     Supported accents include American, British, Australian, Indian, Canadian, 
     Irish, Scottish, South African, and New Zealand English.
+    -----------------------------------------------------
+    Developed by Wisdom K. Anyizah
     """)
     
     # Add footer
     st.sidebar.divider()
-    st.sidebar.caption("© 2025 Accent Detection System <br> Developed by Wisdom K. Anyizah")
+    st.sidebar.caption("© 2025 Accent Detection System")
 
 if __name__ == "__main__":
     main()
