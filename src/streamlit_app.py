@@ -160,7 +160,7 @@ def main():
     
     # Add footer
     st.sidebar.divider()
-    st.sidebar.caption("© 2025 Accent Detection System | Developed by Wisdom K.Anyizah")
+    st.sidebar.caption("© 2025 Accent Detection System | Developed by Wisdom K. Anyizah")
 
 if __name__ == "__main__":
     main()
