@@ -157,7 +157,7 @@ def main():
     Supported accents include American, British, Australian, Indian, Canadian, 
     Irish, Scottish, South African, and New Zealand English.
     
-    ========================================================
+    ===============================
     Developed by Wisdom K. Anyizah
     """)
     
