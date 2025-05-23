@@ -36,9 +36,9 @@ accent_detector/
 │   │   └── uploads/          # Temporary storage for processed files
 │   └── templates/            # HTML templates (for Flask version)
 │       └── index.html
-└── tests/                    # Test files
-    ├── test_accent_detector.py
-    ├── test_accent_detector.py
+└── tests/                        # Test files
+    ├── test_accent_detector.py   # English
+    ├── test_accent_detector.py   # non-English
     ├── test_audio/
     └── non_english_test_audio/                  
 ```
