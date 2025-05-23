@@ -37,6 +37,10 @@ accent_detector/
 │   └── templates/            # HTML templates (for Flask version)
 │       └── index.html
 └── tests/                    # Test files
+    ├── test_accent_detector.py
+    ├── test_accent_detector.py
+    ├── test_audio/
+    └── non_english_test_audio/                  
 ```
 
 ## Installation
