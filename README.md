@@ -39,8 +39,8 @@ accent_detector/
 └── tests/                        # Test files
     ├── test_accent_detector.py   # English
     ├── test_accent_detector.py   # non-English
-    ├── test_audio/
-    └── non_english_test_audio/                  
+    ├── test_audio/               # wav files for English 
+    └── non_english_test_audio/   # wav files for non-English                 
 ```
 
 ## Installation
