@@ -79,6 +79,26 @@ streamlit run src/streamlit_app.py
 
 6. Access the application at http://localhost:8501
 
+### Testing for both the English and non-English language
+
+1. Move to test directory:
+
+```bash
+cd test
+```
+
+1. Run Python application for the English:
+
+```bash
+python test_accent_detector.py
+```
+
+3. Run Python application for non-English:
+
+```bash
+python test_non_english.py
+```
+
 ## Usage
 
 1. Open the application in your web browser.
