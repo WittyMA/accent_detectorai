@@ -87,7 +87,7 @@ streamlit run src/streamlit_app.py
 cd test
 ```
 
-1. Run Python application for the English:
+2. Run Python application for the English:
 
 ```bash
 python test_accent_detector.py
