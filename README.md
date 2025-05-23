@@ -18,7 +18,7 @@ This application analyzes speech from videos to identify the speaker's accent. I
 ## Project Structure
 
 ```
-accent_detector/
+accent_detectorai/
 ├── Dockerfile                # Docker configuration for containerization
 ├── docker-compose.yml        # Docker Compose configuration
 ├── requirements.txt          # Python dependencies
